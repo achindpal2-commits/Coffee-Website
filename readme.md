@@ -18,7 +18,7 @@
 
 ![Screenshot 8](screenshorts/screenshort8.png)
 
-![Screenshot 9](screenshorts/screenshort8.png)
+![Screenshot 9](screenshorts/screenshort9.png)
 
 # ☕ Coffee Shop Website
 
